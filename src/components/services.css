@@ -1,0 +1,25 @@
+.services {
+  display:flex;
+  align-items:center;
+  margin:30px auto;
+  background:rgba(0,0,255,.2);
+  width:75%;
+  justify-content:space-around;
+  padding:30px;
+  border-radius:10px;
+}
+
+.service{
+  display:flex;
+  width:30%;
+  align-items:flex-start;
+  text-align:left;
+}
+.service div {
+  margin-left:10px;
+}
+
+.service div h5 {
+  font-size:18px;
+  font-weight:552;
+}

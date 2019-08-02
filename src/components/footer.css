@@ -1,0 +1,19 @@
+.footer {
+  width:100%;
+  background:black;
+  margin-top:30px;
+  height:auto;
+  display:flex;
+  color:white;
+  align-items:center;
+}
+
+.highlight{
+  color:rgb(255, 192, 36);
+  font-weight:bold;
+}
+
+.footer p {
+  align-self:flex-start;
+  margin:20px 0px 0px 75px
+}

@@ -1,0 +1,16 @@
+.bookaride{
+  width:40%;
+  text-align:left;
+  
+}
+
+.bookaride h3{
+  margin-bottom:15px;
+}
+.bookaride .input {
+  margin-top:10px;
+}
+
+#findaride{
+  width:100%;
+}

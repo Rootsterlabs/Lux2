@@ -1,0 +1,36 @@
+.rewards{
+  width:90%;
+  height:auto;
+  margin:0px auto;
+  background:rgba(255, 192, 36, .7);
+  border-radius:10px;
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-evenly;
+}
+
+.rewards .blurb {
+  width:40%;
+  text-align:left;
+  margin-top:35px;
+}
+
+.rewards .blurb h3 {
+  margin-bottom:15px;
+}
+
+.rewards .blurb button{
+  width:50%;
+  margin-top:15px;
+}
+
+.rewards .blurb ul li{
+  list-style-type:none;
+}
+
+.rewards .blurb ul li:before{
+    content: '✓';
+    color:darkblue;
+    font-size:24px;
+    margin-right:10px;
+}
